@@ -34,6 +34,7 @@
   overflow: hidden;
 }
 .banner-content {
+  background-color: red;
   position: absolute;
   left: -400px;
   -webkit-animation: slide 0.5s forwards;
